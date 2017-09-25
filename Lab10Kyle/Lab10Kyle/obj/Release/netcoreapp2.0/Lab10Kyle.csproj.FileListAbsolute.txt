@@ -1,0 +1,11 @@
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\bin\Release\netcoreapp2.0\Lab10Kyle.deps.json
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\bin\Release\netcoreapp2.0\Lab10Kyle.runtimeconfig.json
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\bin\Release\netcoreapp2.0\Lab10Kyle.runtimeconfig.dev.json
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\bin\Release\netcoreapp2.0\Lab10Kyle.dll
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\bin\Release\netcoreapp2.0\Lab10Kyle.pdb
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\obj\Release\netcoreapp2.0\Lab10Kyle.csprojResolveAssemblyReference.cache
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\obj\Release\netcoreapp2.0\Lab10Kyle.csproj.CoreCompileInputs.cache
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\obj\Release\netcoreapp2.0\Lab10Kyle.AssemblyInfoInputs.cache
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\obj\Release\netcoreapp2.0\Lab10Kyle.AssemblyInfo.cs
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\obj\Release\netcoreapp2.0\Lab10Kyle.dll
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle\obj\Release\netcoreapp2.0\Lab10Kyle.pdb

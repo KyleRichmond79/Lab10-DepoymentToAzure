@@ -1,0 +1,5 @@
+C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Lab10Kyle
+--content-root=C:\Users\Kyler\Source\Repos\Lab10-DepoymentToAzure\Lab10Kyle\Lab10Kyle
+--file=

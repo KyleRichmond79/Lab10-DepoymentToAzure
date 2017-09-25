@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyler\\source\\repos\\Lab10-DepoymentToAzure\\Lab10Kyle\\Lab10Kyle\\Lab10Kyle.csproj",
+      "projectUniqueName": "C:\\Users\\Kyler\\Source\\Repos\\Lab10-DepoymentToAzure\\Lab10Kyle\\Lab10Kyle\\Lab10Kyle.csproj",
       "projectName": "Lab10Kyle",
-      "projectPath": "C:\\Users\\Kyler\\source\\repos\\Lab10-DepoymentToAzure\\Lab10Kyle\\Lab10Kyle\\Lab10Kyle.csproj",
+      "projectPath": "C:\\Users\\Kyler\\Source\\Repos\\Lab10-DepoymentToAzure\\Lab10Kyle\\Lab10Kyle\\Lab10Kyle.csproj",
       "packagesPath": "C:\\Users\\Kyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyler\\source\\repos\\Lab10-DepoymentToAzure\\Lab10Kyle\\Lab10Kyle\\obj\\",
+      "outputPath": "C:\\Users\\Kyler\\Source\\Repos\\Lab10-DepoymentToAzure\\Lab10Kyle\\Lab10Kyle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
